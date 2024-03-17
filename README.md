@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Kelkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Circuit Designer and Embedded Firmware Developer</h3>
 
 - 🔭 I’m currently working on [RTL Design of Superscalar RTL Design of a Pipelined RISC-V Microprocessor](https://github.com/vedantk91/CIS5710_vkelkar/tree/main)
 
