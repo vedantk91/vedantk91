@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vedant Kelkar</h1>
 <h3 align="center">A passionate Circuit Designer and Embedded Firmware Developer</h3>
 
-- 🔭 I’m currently working on [RTL Design of Superscalar RTL Design of a Pipelined RISC-V Microprocessor](https://github.com/vedantk91/CIS5710_vkelkar/tree/main)
+- 🔭 I’m currently working as a Memory IP Systems Engineering Intern at AMD
 
-- 🌱 I’m currently learning **Firmware for Flash Memory, Python and Perl Scripting**
+- 🌱 I’m currently learning **Assisting in post-silicon bring-up by contributing to hardware validation with a Synopsys PHY IP and DDR5 DRAM.**
 
 - 💬 Ask me about **Embedded Firmware, Analog and Digital Circuit Design.**
 
