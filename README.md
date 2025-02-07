@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vedant Kelkar</h1>
 <h3 align="center">A passionate Circuit Designer and Embedded Firmware Developer</h3>
 
-- 🔭 I’m currently working as a Memory IP Systems Engineering Intern at AMD
+- 🔭 I’m currently working on Memory Circuit Design and Optimization (SRAM, DRAM, SSD, HDD) at Upenn
 
-- 🌱 I’m currently learning **Assisting in post-silicon bring-up by contributing to hardware validation with a Synopsys PHY IP and DDR5 DRAM.**
+- 💼 **Experience:**
+  - AMD, Memory DDR PHY IP Engineering Intern (Fall 2024)
+  - Western Digital, Firmware Engineering Intern - NAND Flash SSD (Summer 2024)
+  - Icaoptech Pvt Ltd, Embedded Firmware Engineer Intern (Spring 2023)
+  - AYKA Control Systems, Embedded System Design Intern (Summer 2022)
+  - Team ONYX India, Head of Firmware and Electronics Design Subsystem (2021-2022)
 
 - 💬 Ask me about **Embedded Firmware, Analog and Digital Circuit Design.**
 
