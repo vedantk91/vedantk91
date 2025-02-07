@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vedant Kelkar</h1>
 <h3 align="center">A passionate Circuit Designer and Embedded Firmware Developer</h3>
 
+- 🎓 Currently pursuing a Master's in Electrical Engineering with a focus on Embedded Systems and VLSI at the University of Pennsylvania
+- 
 - 🔭 I’m currently working on Memory Circuit Design and Optimization (SRAM, DRAM, SSD, HDD) at Upenn
 
 - 💼 **Experience:**
@@ -9,6 +11,8 @@
   - Icaoptech Pvt Ltd, Embedded Firmware Engineer Intern (Spring 2023)
   - AYKA Control Systems, Embedded System Design Intern (Summer 2022)
   - Team ONYX India, Head of Firmware and Electronics Design Subsystem (2021-2022)
+ 
+- 🚀 Recently completed the tape-out and post-silicon validation of a Low-Power 4-channel 8-bit Implantable Neural Recorder ASIC, advancing chip technology in biomedical applications
 
 - 💬 Ask me about **Embedded Firmware, Analog and Digital Circuit Design.**
 
