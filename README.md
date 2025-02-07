@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Circuit Designer and Embedded Firmware Developer</h3>
 
 - 🎓 Currently pursuing a Master's in Electrical Engineering with a focus on Embedded Systems and VLSI at the University of Pennsylvania
-- 
+  
 - 🔭 I’m currently working on Memory Circuit Design and Optimization (SRAM, DRAM, SSD, HDD) at Upenn
 
 - 💼 **Experience:**
